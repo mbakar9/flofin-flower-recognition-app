@@ -1,5 +1,4 @@
-# flofin-flower-recognition-app
-flofin-flower-recognition-app
+# Image recognition application with python
 
 Video:
 
