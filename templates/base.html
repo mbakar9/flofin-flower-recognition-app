@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Flofin - Bitki türleri bulma uygulaması</title>
+    <link rel="shortcut icon" href="/static/favicon.png" type="image/x-icon">
+    <style>
+        .data {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    {% if message %}
+    <p class="data">{{ message }}</p>
+    {% endif %} {% block content %} {% endblock %}
+</body>
+
+</html>
