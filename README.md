@@ -2,7 +2,10 @@
 flofin-flower-recognition-app
 
 Video:
-https://github.com/mbakar9/flofin-flower-recognition-app/assets/77553012/4b02fa0c-3436-4fce-a1dd-962b787429ca
+
+
+https://github.com/mbakar9/flofin-flower-recognition-app/assets/77553012/d6317478-04ac-4eb3-978c-f97a17de9d5d
+
 
 
 İmages:
